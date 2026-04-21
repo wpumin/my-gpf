@@ -1,0 +1,6 @@
+{
+  "name": "GPF NAV Tracker",
+  "description": "Tracker for historical GPF Net Asset Value (NAV) of selected investment plans, updated daily automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
